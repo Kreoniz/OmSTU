@@ -3,6 +3,8 @@
 ## Семестр 4
 [Машинное обучение и большие данные](https://github.com/Kreoniz/omstu-ml-4)
 
+[Практикум по программированию](https://github.com/Kreoniz/omstu-praktikum-4)
+
 ## Семестр 5
 [Практикум по программированию](https://github.com/Kreoniz/omstu-programming-practicum-semester-5)
 
