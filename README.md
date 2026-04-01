@@ -9,4 +9,5 @@
 - [Математические основы защиты информации](https://github.com/Kreoniz/omstu-mozi-5)
 
 ## Семестр 6
+- [Анализ временных рядов](https://github.com/Kreoniz/omstu-time-series-6)
 - [Практикум по программированию](https://github.com/Kreoniz/praktikum-6) **(private)**
