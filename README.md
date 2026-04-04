@@ -11,4 +11,4 @@
 ## Семестр 6
 - [Анализ временных рядов](https://github.com/Kreoniz/omstu-time-series-6)
 - [Алгоритмы и анализ сложности](https://github.com/Kreoniz/omstu-algorithms-6)
-- [Практикум по программированию](https://github.com/Kreoniz/praktikum-6) **(private)**
+- [Практикум по программированию](https://github.com/Kreoniz/omstu-praktikum-6) **(private)**
